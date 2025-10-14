@@ -1,5 +1,5 @@
 # CakePHP 3
-
+composer.phar
 /vendor/*
 /config/app.php
 
